@@ -1,0 +1,25 @@
+h1{
+  border: solid #202099 5px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+body{
+  background: #ffffff;
+  font-family: "Arial" Helvetica sans-serif;
+}
+td{
+  border: solid #202099 2px;
+}
+select{
+  min-width: 100%;
+}
+#dob{
+  min-width: 97%;
+}
+#submit{
+  background-color: #202099;
+  color: #ffffff;
+  padding: 5px 25px
+}
